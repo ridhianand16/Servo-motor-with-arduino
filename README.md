@@ -1,8 +1,8 @@
-## Servo-motor-with-arduino
+# Servo Motor interfacing with Arduino
 Increasing Efficiency of solar panels with Arduino Uno 
 
-## Getting Started
-# Items Required:
+# Getting Started
+## Items Required:
 
 1. Arduino Uno Board Kit 
 2. Male to Male Jumper Wires 
@@ -14,7 +14,7 @@ Increasing Efficiency of solar panels with Arduino Uno
 8. Breadboard wires 
 9. USB connecter 
 
-# Setting up the circuit:
+## Setting up the circuit:
 A link for the circuit diagram will be provided (in the future).
 
 # Running the code:
